@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+  <meta charset="UTF-8">
+  <title>תודה שאספת את המשלוח שלך — נירמ בע"מ</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      direction: rtl;
+      text-align: right;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 600px;
+      margin: 40px auto;
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 6px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #333;
+    }
+    p {
+      color: #555;
+      line-height: 1.6;
+    }
+    .tracking {
+      margin-top: 20px;
+      padding: 15px;
+      background-color: #eef;
+      border-radius: 4px;
+    }
+    .tracking span {
+      display: block;
+      margin-bottom: 5px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>תודה שאספת את המשלוח שלך!</h1>
+    <p>משלוחי החברה נמסרו בהצלחה, ואנו מעריכים את אמונך בנו.</p>
+    <div class="tracking">
+      <span>מספרי המשלוחים שלך:</span>
+      <p>ג</p>
+    </div>
+    <p>נשמח להמשיך לשרת אותך בעתיד!</p>
+    <p>— צוות <strong>נירמ בע"מ</strong></p>
+  </div>
+</body>
+</html>
